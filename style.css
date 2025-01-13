@@ -889,7 +889,7 @@ textarea.form-control {
     transform: scale(1.1);
 }
 .about-section {
-    padding: 5rem 0;
+    padding: 3rem 0;
     /* background: linear-gradient(135deg, #f8faff 0%, #ffffff 100%); */
     background: -webkit-linear-gradient(100deg, rgb(217, 246, 244), rgb(253, 235, 224) 100%);
     overflow: hidden;
