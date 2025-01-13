@@ -1003,7 +1003,8 @@ textarea.form-control {
 .highlight-icon {
     width: 45px;
     height: 45px;
-    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    /* background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end)); */
+    background: #ffffff;
     border-radius: 12px;
     display: flex;
     align-items: center;
