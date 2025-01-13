@@ -414,7 +414,7 @@ body {
 }
 
 .contact-form {
-    /* background: white; */
+    background: white;
     padding: 3rem;
     border-radius: 20px;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.05);
@@ -534,7 +534,7 @@ textarea.form-control {
 
 .package-cta__price {
     background: linear-gradient(135deg, var(--primary), var(--primary-dark));
-    padding: 8px 24px;
+    padding: 15px 24px;
     border-radius: 40px;
     color: white;
     font-weight: 700;
@@ -1033,7 +1033,7 @@ textarea.form-control {
 
 
 .doctors-section {
-    padding: 5rem 0;
+    padding: 3rem 0;
     background: linear-gradient(135deg, #f8faff 0%, #ffffff 100%);
     position: relative;
     overflow: hidden;
@@ -1317,7 +1317,7 @@ textarea.form-control {
 }
 
 .testimonial-section {
-    padding: 5rem 0;
+    padding: 3rem 0;
     /* background: linear-gradient(135deg, #f8faff 0%, #ffffff 100%); */
     background: -webkit-linear-gradient(100deg, rgb(217, 246, 244), rgb(253, 235, 224) 100%);
     position: relative;
